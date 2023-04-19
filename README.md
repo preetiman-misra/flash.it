@@ -1,38 +1,18 @@
-# create-svelte
+# Flash.it
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+`Flash.it` is a simple web application to manage your flashcards. It can help you -
 
-## Creating a project
+1. Create flashcard decks
+2. Group multiple decks into topics
+3. Share your decks with a simple link
 
-If you're seeing this, you've probably already done this step. Congrats!
+And many more features to come.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Purpose
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+The goal behind this project for me is to familiairize myself with Svelte, a framework I am pretty excited
+to learn and use in production-grade projects.
 
-## Developing
+## Roadmap
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+Currently I am building `Flash.it` at a relaxed pace in order to learn Svelte and all it has to offer thoroughly. This is more of a learning/progress tracker for me rather than a serious project that I want ot push to production, even though I want the application to be resilient enough to handle production workloads.
