@@ -1,5 +1,7 @@
 # Flash.it
 
+> IN PROGRESS
+
 `Flash.it` is a simple web application to manage your flashcards. It can help you -
 
 1. Create flashcard decks
